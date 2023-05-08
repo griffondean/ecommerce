@@ -21,6 +21,6 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Instructions to use app
 ### Create .env file and add database name, user name, and password
 
-DB_NAME='ecommerce_db'/n
-DB_USER='root'/n
+DB_NAME='ecommerce_db'
+DB_USER='root'
 DB_PW=''
