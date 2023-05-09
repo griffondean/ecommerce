@@ -1,6 +1,6 @@
 # E-commerce Back End
 
-Create database for ecommerce_db
+### Create database for ecommerce_db
 ![Untitled_ May 8, 2023 8_04 PM](https://user-images.githubusercontent.com/123897918/236962384-fb50249d-53b2-47f4-a2ff-4a8e6d0f16a7.gif)
 
 
@@ -34,6 +34,6 @@ Tag belongs to many Product models.
 ## Instructions to use app
 ### Create .env file and add database name, user name, and password
 
-DB_NAME='ecommerce_db'
-DB_USER='root'
-DB_PW=''
+#### DB_NAME='ecommerce_db'
+#### DB_USER='root'
+#### DB_PW=''
