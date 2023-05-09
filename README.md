@@ -1,5 +1,9 @@
 # E-commerce Back End
 
+Create database for ecommerce_db
+![Untitled_ May 8, 2023 8_04 PM](https://user-images.githubusercontent.com/123897918/236962384-fb50249d-53b2-47f4-a2ff-4a8e6d0f16a7.gif)
+
+
 ## User Story
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
