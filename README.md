@@ -1,7 +1,7 @@
 # E-commerce Back End
 
 ### Create database for ecommerce_db
-![Untitled_ May 8, 2023 8_04 PM](https://user-images.githubusercontent.com/123897918/236962384-fb50249d-53b2-47f4-a2ff-4a8e6d0f16a7.gif)
+![Untitled_ May 8, 2023 8_04 PM (1)](https://user-images.githubusercontent.com/123897918/236962653-9a3ec5b4-e7c1-4c5d-8531-5ecfad0784b5.gif)
 
 
 ## User Story
